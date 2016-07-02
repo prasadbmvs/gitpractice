@@ -12,6 +12,6 @@ void main()
 
     printf("String length is value %d",x);
 
-
+      return void;
 
      }
